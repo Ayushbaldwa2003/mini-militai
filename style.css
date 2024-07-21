@@ -1,0 +1,35 @@
+@media(max-width: 680px){
+    html{
+        background-color: rgb(70, 65, 195);
+    }
+    body {
+        overflow-x: hidden;
+      }
+    h1{
+        text-align: center;
+        color:white;
+    }
+    h2{
+        color: white;
+    }
+    .a{
+        color: rgb(141, 217, 20);
+    }
+    a{
+        color: rgb(230, 241, 31);
+        font-size: large;
+    }
+    .aaa>li{
+        color: rgb(216, 216, 216);
+    }
+    div{
+        color: darkblue;
+    }
+    img{
+        width: 100%;
+        margin-bottom: 10px;
+    }
+    li{
+        color: rgb(213, 157, 157);
+    }
+}
