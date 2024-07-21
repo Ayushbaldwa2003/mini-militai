@@ -1,7 +1,7 @@
 @media(max-width: 680px){
     html{
         background-color: rgb(70, 65, 195);
-        font-size: small;
+        font-size: 10px;
     }
     body {
         overflow-x: hidden;
